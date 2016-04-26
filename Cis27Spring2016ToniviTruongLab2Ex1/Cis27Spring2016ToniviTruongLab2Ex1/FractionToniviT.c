@@ -1,10 +1,3 @@
-/*
-* Project Name : FractionToniviT.cpp
-* Discussion :   Fraction Statements
-* Written By :   Tonivi Truong
-* Date :         2016/25/02
-*/
-
 #include <stdlib.h>
 #include "FRACTIONTONIVIT.h"
 
