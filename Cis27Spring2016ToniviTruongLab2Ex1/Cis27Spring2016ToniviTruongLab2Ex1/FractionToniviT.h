@@ -1,10 +1,3 @@
-/*
-* Project Name : FractionTonivi.h
-* Discussion :   Fraction header
-* Written By :   Tonivi Truong
-* Date :         2016/11/02
-*/
-
 #ifndef FRACTIONTONIVIT_H
 #define FRACTIONTONIVIT_H
 
